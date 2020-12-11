@@ -35,3 +35,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### General (All game release)
+-	Button Hit Polygon
+-	Alignment and scaling of Title and Jackpot for desktop and mobile
+-	Preloader
+-	Styling of jackpot
+-	Desktop rules table initial styling and alignment
+-	Feature Trigger, Big Win and You Have Won translation styling an animation to best match the English spine
+-	Implantation desktop UI (Add buttons, text styling and alignment)
+-	Bet Hit Areas
+-	Character debug triggers
+
